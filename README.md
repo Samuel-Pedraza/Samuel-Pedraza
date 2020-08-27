@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 [website]: https://samuelpedraza.com
 [twitter]: https://twitter.com/samuel__pedraza
-[instagram]: https://www.instagram.com/sam.pedraza/
+[instagram]: https://www.instagram.com/pedraza.sam/
 [linkedin]: https://www.linkedin.com/in/samuel-pedraza/
