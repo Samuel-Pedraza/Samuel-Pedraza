@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- ⚡ I’m currently working on: Bitcoin Atomic Swaps - Updates Soon To Follow
-- 📫 How to reach me: Email me at samdpedraza@gmail.com
+⚡ I’m currently working on: Bitcoin Atomic Swaps - Updates Soon To Follow
+📫 How to reach me: Email me at samdpedraza@gmail.com
 
 ### Connect with me
 
