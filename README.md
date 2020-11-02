@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- ⚡ What am I currently working on? Bitcoin Atomic Swaps.
+- ⚡ Currently Learning Rust and Building Bitcoin tools
 - 📫 How to reach me? Email me at samdpedraza@gmail.com
 
 ### Connect with me
