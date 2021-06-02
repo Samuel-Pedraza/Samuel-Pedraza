@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- ⚡ Currently Learning Rust and Building Bitcoin tools
+- ⚡ Currently Writing Laravel and Building @ Busybench.com
 - 📫 How to reach me? Email me at samdpedraza@gmail.com
 
 ### Connect with me
