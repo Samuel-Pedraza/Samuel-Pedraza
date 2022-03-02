@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- ⚡ Currently Writing Laravel and Building @ Busybench.com
+- ⚡ Currently working @ Grin
 - 📫 How to reach me? Email me at samdpedraza@gmail.com
 
 ### Connect with me
