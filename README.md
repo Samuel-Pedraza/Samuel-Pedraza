@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- ⚡ Currently working @ Grin
+- ⚡ Currently working @ Surety Bonds Direct
 - 📫 How to reach me? Email me at samdpedraza@gmail.com
 
 ### Connect with me
